@@ -5,12 +5,12 @@ Les théories du complot naissent et prospèrent dans certains contextes sociolo
 Edgar Morin a montré que la rumeur d'Orléans s'était batie sur un changement sociologique majeure (Orléans absorbée dans l'orbite de Paris), et à un moment politique particulier. 
 
 Aujourd'hui, nous faisons des réseaux sociaux, non seulement des vecteurs influents des théories conspirationnistes, mais également des supports de production de ces théories. 
-Par ailleurs, nous analysons le problème en parlant d'une mentalité complotiste et en faisant référence aux théories relatives aux [[biais cognitifs]], (cf. [[Gérald Bronner]] qui remplace des catégories sociologiques par des théories cognitivistes [@boullierBiaisBronnerOu2021])
+Par ailleurs, nous analysons le problème en parlant d'une mentalité complotiste et en faisant référence aux théories relatives aux biais cognitifs, (cf. Gérald Bronner qui remplace des catégories sociologiques par des théories cognitivistes [@boullierBiaisBronnerOu2021])
 Cette réduction du complotisme à des faillites psychologiques de l'individu n'aide pas à comprendre à quel moment historique correspond la prolifération des théories complotistes ni dans quelle dynamique sociale cette production s'enracine[@guilhotChamanAutreTheories2021] : 
 
 >Ce qui est remarquable, cinquante ans plus tard, c’est à quel point ce monde réel a disparu de nos réflexions sur les théories du complot. Nous avons remplacé les conditions sociales et économiques par des biais cognitifs, les mythologies politiques et religieuses par des erreurs étiologiques [...] Il y a là un quiétisme implicite : ce qui est en cause, ce n’est pas le monde, mais les esprits individuels qui semblent ne pas le voir pour ce qu’il est
 
-Selon Nicolas Guilhot, le conspirationnisme apocalyptique est un récit qui permet aux individus de ne pas sombrer dans un état [[paranoïa|paranoïaque]]. Il se nourrit de l'absence de réaction des politiques devant la dégradation visible et constatable par tous de notre environnement. Le conspirationnisme se nourrit de l'absence de vision politique ou de l'incapacité des politiques à nous proposer un avenir à la fois désirable et possible. 
+Selon Nicolas Guilhot, le conspirationnisme apocalyptique est un récit qui permet aux individus de ne pas sombrer dans un état paranoïa|paranoïaque. Il se nourrit de l'absence de réaction des politiques devant la dégradation visible et constatable par tous de notre environnement. Le conspirationnisme se nourrit de l'absence de vision politique ou de l'incapacité des politiques à nous proposer un avenir à la fois désirable et possible. 
 
 > La seule et véritable alternative consiste à retrouver une capacité politique, à jeter des ponts par-delà un présent cataclysmique, à reconstruire la vision d’un monde commun et d’un avenir inclusif pour tous ceux qui sont en train de perdre le leur.
 
