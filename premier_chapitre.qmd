@@ -9,7 +9,7 @@ Dans les langues européennes et notamment en français et en italien, la theori
 
 En anglais conspiracy theorists pourrait se traduire par "mystificateurs", mais en français par "théoriciens du complot", ce qui implique un engagement plus important et une pratique plus raffinée que la simple affabulation. 
 
-(source : [@wuming1CommeQomplotComment2022], p122)
+(source : [@wuming1CommeQomplotComment2022a], p122)
 
 
 
@@ -18,6 +18,6 @@ En anglais conspiracy theorists pourrait se traduire par "mystificateurs", mais 
 
 Si on considère que les théories doivent être [[falsifiables]], ce n'est pas le cas des théories conspirationnistes. En effet, les preuves qui devraient mettre fin à ces théories ne sont jamais suffisantes pour ceux qui les propagent. 
 La présentation du certificat de naissance de Barack Obama qui lui a servi tout au long de sa vie ne parviendra jamais à satisfaire les "birthers", les photos de la terre rond prises par les agences spaciales ne seront jamais pris en compte par les "flatters".
-toute preuve allant à l'encontre de la théorie ne fait qu'illustrer la profondeur du complot et le pouvoir de ceux qui le servent et qui ont le moyen de créer des preuves aussi vraisemblables [@andrejevicInfoglutHowToo2013].
+toute preuve allant à l'encontre de la théorie ne fait qu'illustrer la profondeur du complot et le pouvoir de ceux qui le servent et qui ont le moyen de créer des preuves aussi vraisemblables [@andrejevicInfoglutHowToo2013a].
 
 > The fact that there were published announcements of Barack Obama's birth  in Hawaiian newspapers, for example, serves only to illustrate how far back in time the tentacles of conspiracy can reach: either by creating fake articles (can anyone prove  that the copies in the library are authentic?) or by tracing  its roots to a well-thought-out, long-term plan to eventualy place a recently born baby in the White House

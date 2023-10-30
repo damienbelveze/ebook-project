@@ -2,13 +2,13 @@
 
 ## le complotisme comme pilier de la construction identitaire
 
-esprit [[contrarien]] : opposition précoce à l'autorité et au discours d'autorité. la recherche de la vérité ne passerait que par une confrontation avec la "vérité officielle".
-l'adhésion à des thèses complotistes renforce le narcissisme et le sentiment de sécurité de la personne. Le conspirationnisme leur permet d'aller mieux ([@audureauDansTeteComplotistes2021], p74)
+esprit contrarien : opposition précoce à l'autorité et au discours d'autorité. la recherche de la vérité ne passerait que par une confrontation avec la "vérité officielle".
+l'adhésion à des thèses complotistes renforce le narcissisme et le sentiment de sécurité de la personne. Le conspirationnisme leur permet d'aller mieux ([@audureauDansTeteComplotistes2021a], p74)
 
 ![](images/lion_noir.png)
 
 
-Les Contrariens (ennemis de la vérité diffusée par des autorités sur un sujet) conçoivent de la fierté pour leur aptitude à traiter des données et des informations. Ce n'est pas tout à fait injustifié, dans la mesure où ces personnes passent beaucoup plus de temps à amasser des preuves pour soutenir leur point de vue que ceux qui acceptent la version fournie par les autorités (et sont pourtant dans la majorité des cas plus proches du savoir que les autres)[@levyYourOwnResearch2022]
+Les Contrariens (ennemis de la vérité diffusée par des autorités sur un sujet) conçoivent de la fierté pour leur aptitude à traiter des données et des informations. Ce n'est pas tout à fait injustifié, dans la mesure où ces personnes passent beaucoup plus de temps à amasser des preuves pour soutenir leur point de vue que ceux qui acceptent la version fournie par les autorités (et sont pourtant dans la majorité des cas plus proches du savoir que les autres)[@levyYourOwnResearch2022a]
 
 Distinction faite entre "croire" et "croiver"
 Croire désigne l'adhésion à une théorie présentée comme scientifique (considérez-vous que le vaccin à ARN message est sans risques ?)
@@ -16,7 +16,7 @@ Croiver désigne une posture, vise à la construction d'une identité "pro liber
 
 > Sebastian Dieguez [propose](https://eliotteditions.fr/10-croiver/) la distinction entre « croire » et « croiver » pour caractériser la différence entre deux sens possibles de ce verbe : comme conviction de l’existence d’une réalité (penser que ces vaccins sont effectivement dangereux) d’une part, comme posture manifestant une identité (par ex. son refus d’être un « mouton ») d’autre part.
 
-(source : [@kleinAntivaxCetEnnemi2023])
+(source : [@kleinAntivaxCetEnnemi2023a])
 
 Ces deux postures n’appellent pas les mêmes réponses. Pour démonter une « croyance », on pourra s’armer de faits. En revanche, s’attaquer à une « croivance » demandera d’en identifier les [racines](https://journals.sagepub.com/doi/abs/10.1177/0963721420969364). À quelle motivation plus profonde répond l’expression de cette affirmation ? Est-il possible de concilier cette motivation et la vaccination (qui, après tout, n’est ici qu’un prétexte) ?
 

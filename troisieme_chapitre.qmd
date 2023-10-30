@@ -6,7 +6,7 @@ Edgar Morin a montré que la rumeur d'Orléans s'était batie sur un changement 
 
 Aujourd'hui, nous faisons des réseaux sociaux, non seulement des vecteurs influents des théories conspirationnistes, mais également des supports de production de ces théories. 
 Par ailleurs, nous analysons le problème en parlant d'une mentalité complotiste et en faisant référence aux théories relatives aux [[biais cognitifs]], (cf. [[Gérald Bronner]] qui remplace des catégories sociologiques par des théories cognitivistes [@boullierBiaisBronnerOu2021])
-Cette réduction du complotisme à des faillites psychologiques de l'individu n'aide pas à comprendre à quel moment historique correspond la prolifération des théories complotistes ni dans quelle dynamique sociale cette production s'enracine[@guilhotChamanAutreTheories] : 
+Cette réduction du complotisme à des faillites psychologiques de l'individu n'aide pas à comprendre à quel moment historique correspond la prolifération des théories complotistes ni dans quelle dynamique sociale cette production s'enracine[@guilhotChamanAutreTheories2021] : 
 
 >Ce qui est remarquable, cinquante ans plus tard, c’est à quel point ce monde réel a disparu de nos réflexions sur les théories du complot. Nous avons remplacé les conditions sociales et économiques par des biais cognitifs, les mythologies politiques et religieuses par des erreurs étiologiques [...] Il y a là un quiétisme implicite : ce qui est en cause, ce n’est pas le monde, mais les esprits individuels qui semblent ne pas le voir pour ce qu’il est
 
@@ -14,8 +14,8 @@ Selon Nicolas Guilhot, le conspirationnisme apocalyptique est un récit qui perm
 
 > La seule et véritable alternative consiste à retrouver une capacité politique, à jeter des ponts par-delà un présent cataclysmique, à reconstruire la vision d’un monde commun et d’un avenir inclusif pour tous ceux qui sont en train de perdre le leur.
 
-(Nicolas Guilhot [@guilhotChamanAutreTheories])
+(Nicolas Guilhot [@guilhotChamanAutreTheories2021])
 
-Afin de ne pas déresponsabiliser les personnes qui adhèrent aux théories conspirationnistes, sans réduire le phénomène à un problème psychologique, Cory Doctorow avance l'idée que la théorie conspirationniste procède d'un choix, le choix de croire à telle théorie, plutôt qu'à la théorie promue par les autorités scientifiques[[@doctorowPluralisticGreenwashingSet2021]] : 
+Afin de ne pas déresponsabiliser les personnes qui adhèrent aux théories conspirationnistes, sans réduire le phénomène à un problème psychologique, Cory Doctorow avance l'idée que la théorie conspirationniste procède d'un choix, le choix de croire à telle théorie, plutôt qu'à la théorie promue par les autorités scientifiques[@PluralisticGreenwashingSet2021] : 
 
 > Conspiratorialism is characterized as a problem of what people believe, but the true roots of conspiracy belief isn't what we believe, it's how we decide what to believe. It's not beliefs, it's epistemology
