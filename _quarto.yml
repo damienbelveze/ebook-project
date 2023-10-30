@@ -1,0 +1,28 @@
+project:
+  type: book
+
+book:
+  title: "Théories du complot"
+  author: "Damien Belvèze"
+  date: "29/10/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - premier_chapitre.qmd
+    - deuxieme_chapitre.qmd
+    - troisieme_chapitre.qmd
+    - quatrieme_chapitre.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: quarto.bib
+csl: nature.csl
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
